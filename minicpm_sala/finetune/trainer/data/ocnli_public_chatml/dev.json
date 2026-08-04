@@ -3,7 +3,7 @@
         "messages": [
             {
                 "role": "user",
-                "content": "请判断下边两个句子的关系属于 [entailment, neutral, contradiction]中的哪一种？\n句子1: 身上裹一件工厂发的棉大衣,手插在袖筒里\n句子2：身上至少一件衣服\n"
+                "content": "Please determine which of [entailment, neutral, contradiction] describes the relationship between the two sentences below.\nSentence 1: Wrapped in a factory-issued padded coat, with hands tucked into the sleeves.\nSentence 2: Wearing at least one piece of clothing.\n"
             },
             {
                 "role": "assistant",
@@ -15,7 +15,7 @@
         "messages": [
             {
                 "role": "user",
-                "content": "请判断下边两个句子的关系属于 [entailment, neutral, contradiction]中的哪一种？\n句子1: 东、中、西部地区要加强多种形式的合作,在协调发展中逐步实现共同富裕\n句子2：东、中、西部地区发展存在不协调\n"
+                "content": "Please determine which of [entailment, neutral, contradiction] describes the relationship between the two sentences below.\nSentence 1: The eastern, central, and western regions need to strengthen various forms of cooperation to gradually achieve common prosperity through coordinated development.\nSentence 2: There is uncoordinated development among the eastern, central, and western regions.\n"
             },
             {
                 "role": "assistant",
@@ -27,7 +27,7 @@
         "messages": [
             {
                 "role": "user",
-                "content": "请判断下边两个句子的关系属于 [entailment, neutral, contradiction]中的哪一种？\n句子1: 外贸经营权进一步放开\n句子2：外贸经营权经历了先收缩再放开的过程。\n"
+                "content": "Please determine which of [entailment, neutral, contradiction] describes the relationship between the two sentences below.\nSentence 1: The management rights for foreign trade were further opened up.\nSentence 2: Foreign trade management rights underwent a process of first restricting and then opening up.\n"
             },
             {
                 "role": "assistant",
@@ -39,7 +39,7 @@
         "messages": [
             {
                 "role": "user",
-                "content": "请判断下边两个句子的关系属于 [entailment, neutral, contradiction]中的哪一种？\n句子1: 一些地方财政收支矛盾较大\n句子2：地方经历了经济危机\n"
+                "content": "Please determine which of [entailment, neutral, contradiction] describes the relationship between the two sentences below.\nSentence 1: Some local governments face significant imbalances between fiscal revenue and expenditure.\nSentence 2: Localities experienced an economic crisis.\n"
             },
             {
                 "role": "assistant",
@@ -51,7 +51,7 @@
         "messages": [
             {
                 "role": "user",
-                "content": "请判断下边两个句子的关系属于 [entailment, neutral, contradiction]中的哪一种？\n句子1: 等他回来,我们就出去吃啊.\n句子2：我们在等他\n"
+                "content": "Please determine which of [entailment, neutral, contradiction] describes the relationship between the two sentences below.\nSentence 1: When he comes back, we'll go out to eat.\nSentence 2: We are waiting for him.\n"
             },
             {
                 "role": "assistant",
@@ -63,7 +63,7 @@
         "messages": [
             {
                 "role": "user",
-                "content": "请判断下边两个句子的关系属于 [entailment, neutral, contradiction]中的哪一种？\n句子1: 我觉得你看吧,咱们从专业角度,咱们刚刚说了,物理学咱们都没有办法去判断他到底怎么排名\n句子2：他学习物理学\n"
+                "content": "Please determine which of [entailment, neutral, contradiction] describes the relationship between the two sentences below.\nSentence 1: I think you see, from a professional perspective, as we just said, we have no way to judge how physics ranks.\nSentence 2: He studies physics.\n"
             },
             {
                 "role": "assistant",
@@ -75,7 +75,7 @@
         "messages": [
             {
                 "role": "user",
-                "content": "请判断下边两个句子的关系属于 [entailment, neutral, contradiction]中的哪一种？\n句子1: 否则,我们的高要求得不到落实,也影响了我们的低目标的实现\n句子2：我们的要求落实与否无所谓。\n"
+                "content": "Please determine which of [entailment, neutral, contradiction] describes the relationship between the two sentences below.\nSentence 1: Otherwise, our high requirements cannot be met, which also affects the realization of our lower goals.\nSentence 2: It doesn't matter whether our requirements are met or not.\n"
             },
             {
                 "role": "assistant",
@@ -87,7 +87,7 @@
         "messages": [
             {
                 "role": "user",
-                "content": "请判断下边两个句子的关系属于 [entailment, neutral, contradiction]中的哪一种？\n句子1: 因此,日本舆论曾盛传海部内阁是过渡性政权\n句子2：此舆论在中国传播范围同样广泛\n"
+                "content": "Please determine which of [entailment, neutral, contradiction] describes the relationship between the two sentences below.\nSentence 1: Therefore, Japanese public opinion widely rumored that the Kaifu cabinet was a transitional administration.\nSentence 2: This public opinion was spread just as widely in China.\n"
             },
             {
                 "role": "assistant",
@@ -99,7 +99,7 @@
         "messages": [
             {
                 "role": "user",
-                "content": "请判断下边两个句子的关系属于 [entailment, neutral, contradiction]中的哪一种？\n句子1: 阿嗲说,谢谢你们,生日还送了东西.\n句子2：阿嗲收到生日礼物\n"
+                "content": "Please determine which of [entailment, neutral, contradiction] describes the relationship between the two sentences below.\nSentence 1: Grandfather said, thank you guys, you even sent gifts for my birthday.\nSentence 2: Grandfather received birthday gifts.\n"
             },
             {
                 "role": "assistant",
@@ -111,7 +111,7 @@
         "messages": [
             {
                 "role": "user",
-                "content": "请判断下边两个句子的关系属于 [entailment, neutral, contradiction]中的哪一种？\n句子1: 他当时每次喝酒喝大,有一次喝酒喝得太大我就把他拽到我们家,因为我知道他一定最后以吐出来为终点\n句子2：我去过他家\n"
+                "content": "Please determine which of [entailment, neutral, contradiction] describes the relationship between the two sentences below.\nSentence 1: Back then, whenever he drank too much, there was one time he drank way too much so I dragged him to our place, because I knew he would eventually end up throwing up.\nSentence 2: I have been to his house.\n"
             },
             {
                 "role": "assistant",
@@ -123,7 +123,7 @@
         "messages": [
             {
                 "role": "user",
-                "content": "请判断下边两个句子的关系属于 [entailment, neutral, contradiction]中的哪一种？\n句子1: 我我后来又给你写了一封信啊.\n句子2：其实收信人收到了第一封信,但是可能忘记了\n"
+                "content": "Please determine which of [entailment, neutral, contradiction] describes the relationship between the two sentences below.\nSentence 1: I wrote you another letter later on.\nSentence 2: Actually, the recipient got the first letter, but might have forgotten about it.\n"
             },
             {
                 "role": "assistant",
@@ -135,7 +135,7 @@
         "messages": [
             {
                 "role": "user",
-                "content": "请判断下边两个句子的关系属于 [entailment, neutral, contradiction]中的哪一种？\n句子1: 每天都在打高尔夫球的.\n句子2：主人公生活得很规律。\n"
+                "content": "Please determine which of [entailment, neutral, contradiction] describes the relationship between the two sentences below.\nSentence 1: Playing golf every single day.\nSentence 2: The protagonist lives a very disciplined life.\n"
             },
             {
                 "role": "assistant",
@@ -147,7 +147,7 @@
         "messages": [
             {
                 "role": "user",
-                "content": "请判断下边两个句子的关系属于 [entailment, neutral, contradiction]中的哪一种？\n句子1: 要狠抓造林质量不放松\n句子2：种的树越多越好,至于成活率和质量并不需要考虑\n"
+                "content": "Please determine which of [entailment, neutral, contradiction] describes the relationship between the two sentences below.\nSentence 1: We must pay strict attention to afforestation quality without slacking off.\nSentence 2: The more trees planted the better, survival rate and quality do not need to be considered.\n"
             },
             {
                 "role": "assistant",
@@ -156,4 +156,3 @@
         ]
     }
 ]
-    
